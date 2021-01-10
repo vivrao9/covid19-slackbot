@@ -1,0 +1,1 @@
+@python.exe "C:\Users\Vivek Rao\Desktop\Programming\Automate the Boring Stuff\MyPythonScripts\slackbot.py" %*
